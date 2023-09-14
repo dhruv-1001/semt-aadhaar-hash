@@ -1,0 +1,1 @@
+DELETE FROM <your_table_name> WHERE hashed_aadhaar IS NULL;

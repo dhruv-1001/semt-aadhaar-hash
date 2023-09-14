@@ -1,0 +1,30 @@
+# Exporting to CSV
+
+Exporting took 5 Minutes per CSV (1 Crore Rows per CSV)
+Exporting all rows -> 5 * 15 minutes
+
+~ 75 Minutes
+============================================================================================
+# Updating CSV with hadhed_aadhaar
+
+[.NET] Hash and update CSV  |  ~250 Seconds
+
+~ 4 Minutes
+============================================================================================
+# Updating DB
+
+For 10,00,000 rows
+[.NET] Bulk copy                           | ~ 40 Seconds
+[SQL] Fill aadhaar_no                      | ~ 95 Seconds [file = fill_aadhaar_no.sql]
+[SQL] Delete rows with null hadhed_aadhaar | ~ 5 Seconds [file = delete_null_hashed_aadhaar.sql]
+
+Assuming ~140 Seconds for 10,00,000 rows
+For 15,00,00,000 Rows ~ 21,000 Seconds
+
+~ 350 Minutes
+============================================================================================
+# Total
+
+~ 430 Minutes
+~ 7.17 Hrs
+============================================================================================

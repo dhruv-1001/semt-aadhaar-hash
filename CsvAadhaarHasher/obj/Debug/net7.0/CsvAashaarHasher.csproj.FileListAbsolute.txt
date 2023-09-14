@@ -1,0 +1,17 @@
+/Users/dhruvbaliyan/development/work/samagra/CsvAashaarHasher/obj/Debug/net7.0/CsvAashaarHasher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dhruvbaliyan/development/work/samagra/CsvAashaarHasher/obj/Debug/net7.0/CsvAashaarHasher.AssemblyInfoInputs.cache
+/Users/dhruvbaliyan/development/work/samagra/CsvAashaarHasher/obj/Debug/net7.0/CsvAashaarHasher.AssemblyInfo.cs
+/Users/dhruvbaliyan/development/work/samagra/CsvAashaarHasher/obj/Debug/net7.0/CsvAashaarHasher.csproj.CoreCompileInputs.cache
+/Users/dhruvbaliyan/development/work/samagra/CsvAashaarHasher/obj/Debug/net7.0/CsvAashaarHasher.csproj.AssemblyReference.cache
+/Users/dhruvbaliyan/development/work/samagra/CsvAashaarHasher/bin/Debug/net7.0/CsvAashaarHasher
+/Users/dhruvbaliyan/development/work/samagra/CsvAashaarHasher/bin/Debug/net7.0/CsvAashaarHasher.deps.json
+/Users/dhruvbaliyan/development/work/samagra/CsvAashaarHasher/bin/Debug/net7.0/CsvAashaarHasher.runtimeconfig.json
+/Users/dhruvbaliyan/development/work/samagra/CsvAashaarHasher/bin/Debug/net7.0/CsvAashaarHasher.dll
+/Users/dhruvbaliyan/development/work/samagra/CsvAashaarHasher/bin/Debug/net7.0/CsvAashaarHasher.pdb
+/Users/dhruvbaliyan/development/work/samagra/CsvAashaarHasher/bin/Debug/net7.0/CsvHelper.dll
+/Users/dhruvbaliyan/development/work/samagra/CsvAashaarHasher/obj/Debug/net7.0/CsvAashaarHasher.csproj.CopyComplete
+/Users/dhruvbaliyan/development/work/samagra/CsvAashaarHasher/obj/Debug/net7.0/CsvAashaarHasher.dll
+/Users/dhruvbaliyan/development/work/samagra/CsvAashaarHasher/obj/Debug/net7.0/refint/CsvAashaarHasher.dll
+/Users/dhruvbaliyan/development/work/samagra/CsvAashaarHasher/obj/Debug/net7.0/CsvAashaarHasher.pdb
+/Users/dhruvbaliyan/development/work/samagra/CsvAashaarHasher/obj/Debug/net7.0/CsvAashaarHasher.genruntimeconfig.cache
+/Users/dhruvbaliyan/development/work/samagra/CsvAashaarHasher/obj/Debug/net7.0/ref/CsvAashaarHasher.dll

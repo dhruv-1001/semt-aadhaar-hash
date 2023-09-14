@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eUejE3GJ8vqQ3C+nrOahL1eLhMX/Vu+DF084m7m4c18N+UI+pNFWMntMCequI3OvEQZkPVyx24W7T32LVMLccA==",
+  "success": true,
+  "projectFilePath": "/Users/dhruvbaliyan/development/work/samagra/CsvAashaarHasher/CsvAashaarHasher.csproj",
+  "expectedPackageFiles": [
+    "/Users/dhruvbaliyan/.nuget/packages/csvhelper/30.0.1/csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
